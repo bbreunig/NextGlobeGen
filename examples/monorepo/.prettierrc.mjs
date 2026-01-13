@@ -6,7 +6,7 @@ const prettierConfig = {
     "@ianvs/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss",
   ],
-  tailwindStylesheet: "./packages/frontend/src/styles/globals.css",
+  tailwindStylesheet: "./packages/frontend/styles/globals.css",
   tailwindFunctions: ["cn", "cva"],
 };
 

@@ -1,14 +1,28 @@
-shared:
-  featureCard:
-    description: "[missing]"
-    learnMore: "[missing]"
-    status:
-      comingSoon: "[missing]"
-      new: "[missing]"
-      popular: "[missing]"
-    title: "[missing]"
-  welcome:
-    description: "[missing]"
-    documentation: "[missing]"
-    getStarted: "[missing]"
-    title: "[missing]"
+actions:
+  getStartedClicked: Get started clicked
+  learnMoreI18n: Learn more about i18n
+  learnMoreMonorepo: Learn more about monorepo
+  learnMoreTypeSafety: Learn more about type safety
+featureCard:
+  description: This is a shared feature card component from the monorepo frontend package.
+  learnMore: Learn More
+  status:
+    comingSoon: Coming Soon
+    new: New
+    popular: Popular
+  title: Feature Card
+features:
+  i18n:
+    description: Seamless i18n support with type-safe translations across your monorepo.
+    title: Internationalization
+  monorepo:
+    description: Share components and translations between multiple Next.js apps.
+    title: Monorepo Ready
+  typeSafety:
+    description: Full TypeScript support with autocomplete for translation keys.
+    title: Type Safety
+welcome:
+  description: Experience seamless internationalization in your Next.js monorepo.
+  documentation: View Documentation
+  getStarted: Get Started
+  title: Welcome to NextGlobeGen

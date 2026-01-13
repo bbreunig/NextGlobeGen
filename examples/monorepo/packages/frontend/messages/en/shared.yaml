@@ -1,0 +1,14 @@
+shared:
+  featureCard:
+    description: "[missing]"
+    learnMore: "[missing]"
+    status:
+      comingSoon: "[missing]"
+      new: "[missing]"
+      popular: "[missing]"
+    title: "[missing]"
+  welcome:
+    description: "[missing]"
+    documentation: "[missing]"
+    getStarted: "[missing]"
+    title: "[missing]"

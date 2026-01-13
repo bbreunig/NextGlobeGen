@@ -13,11 +13,11 @@
     "clean": "rm -rf node_modules"
   },
   "exports": {
-    "./globals.css": "./src/styles/globals.css",
-    "./postcss.config": "./src/styles/postcss.config.mjs",
-    "./lib/*": "./src/lib/*.ts",
-    "./components/*": "./src/components/*.tsx",
-    "./hooks/*": "./src/hooks/*.ts",
+    "./globals.css": "./styles/globals.css",
+    "./postcss.config": "./styles/postcss.config.mjs",
+    "./lib/*": "./lib/*.ts",
+    "./components/*": "./components/*.tsx",
+    "./hooks/*": "./hooks/*.ts",
     "./i18n.config": "./i18n.config.ts"
   },
   "dependencies": {

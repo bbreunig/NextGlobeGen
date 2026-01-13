@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@repo/frontend/*": ["./src/*"]
+      "@repo/frontend/*": ["./*"]
     }
   }
 }

@@ -1,0 +1,13 @@
+featureCard:
+  description: Dies ist ein geteilter Feature-Karten-Komponent aus dem Frontend-Paket des Monorepos.
+  learnMore: Mehr erfahren
+  status:
+    comingSoon: Bald kommt
+    new: Neu
+    popular: Beliebt
+  title: Feature-Karte
+welcome:
+  description: Erlebe saubere Internationalisierung in deinem Next.js-Monorepo.
+  documentation: Dokumentation ansehen
+  getStarted: Los geht's
+  title: Willkommen bei NextGlobeGen

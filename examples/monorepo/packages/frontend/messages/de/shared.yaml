@@ -1,3 +1,8 @@
+actions:
+  getStartedClicked: Los geht's
+  learnMoreI18n: Mehr über i18n erfahren
+  learnMoreMonorepo: Mehr über Monorepo erfahren
+  learnMoreTypeSafety: Mehr über Typsicherheit erfahren
 featureCard:
   description: Dies ist ein geteilter Feature-Karten-Komponent aus dem Frontend-Paket des Monorepos.
   learnMore: Mehr erfahren
@@ -6,6 +11,16 @@ featureCard:
     new: Neu
     popular: Beliebt
   title: Feature-Karte
+features:
+  i18n:
+    description: Saubere Internationalisierung in deinem Next.js-Monorepo.
+    title: Internationalisierung
+  monorepo:
+    description: Komponente und Übersetzungen zwischen mehreren Next.js-Apps teilen.
+    title: Monorepo-fähig
+  typeSafety:
+    description: Vollständige TypeScript-Unterstützung mit Autocomplete für Übersetzungsschlüssel.
+    title: Typsicherheit
 welcome:
   description: Erlebe saubere Internationalisierung in deinem Next.js-Monorepo.
   documentation: Dokumentation ansehen
